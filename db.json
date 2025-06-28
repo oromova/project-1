@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "id": "1",
+      "title": "Bosh sahifa",
+      "slug": "",
+      "keywords": "home, bosh sahifa",
+      "content": "<h1>Assalomu alaykum</h1><p>Bu saytning bosh sahifasi.</p>"
+    },
+    {
+      "title": "Biz haqimizda",
+      "slug": "about",
+      "metaKeywords": "",
+      "content": "<p>Bu sahifa biz haqimizda ma’lumot beradi.</p>",
+      "id": "2"
+    },
+    {
+      "title": "Contact",
+      "slug": "contact",
+      "metaKeywords": "contact",
+      "content": "<p>Bu contact sahifasi</p>",
+      "id": "84bc"
+    }
+  ]
+}
